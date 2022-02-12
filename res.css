@@ -1,0 +1,209 @@
+.main_cls {
+    position: relative;
+}
+
+.main_img {
+    width: 100%;
+    height: auto;
+}
+
+.img_2 {
+    position: inherit;
+}
+
+.chair {
+    width: 50%;
+    height: auto;
+    position: absolute;
+    left: 48.7%;
+    margin-top: 7%;
+}
+
+h5 {
+    font-size: 2.2vw;
+    position: absolute;
+    top: 4.2%;
+    left: 8.2%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 0.2px 0.2px whitesmokes;
+}
+
+.shop {
+    font-size: 7.5vw;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top: 28%;
+    left: 7.2%;
+    position: absolute;
+}
+
+.shop_icon {
+    background-color: rgb(226, 121, 121);
+    padding: 6px;
+    padding-left: 18px;
+    width: 15%;
+    text-shadow: 1px;
+    color: whitesmoke;
+    position: absolute;
+    top: 65%;
+    left: 7%;
+}
+
+h6 {
+    font-size: 5vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    margin-top: 55px;
+    color: rgb(49, 49, 49);
+    text-shadow: 0.05px 0.05px;
+}
+
+.content {
+    font-size: 2.93vw;
+    position: absolute;
+    padding: 2px;
+    margin-top: 110px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 0.3px 0.3px rgb(44, 44, 44);
+}
+
+.topic {
+    position: absolute;
+    padding: 120px;
+    margin-top: 180px;
+    font-size: 5.2vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.stoneware_img {
+    width: 40%;
+    height: auto;
+    position: absolute;
+    margin-top: 380px;
+    padding-left: 5%;
+}
+
+.decor_img {
+    width: 40%;
+    height: auto;
+    position: absolute;
+    margin-top: 380px;
+    padding-left: 54%;
+}
+
+.stone_txt {
+    position: absolute;
+    margin-top: 610px;
+    padding-left: 4.5%;
+}
+
+.decor_txt {
+    position: absolute;
+    margin-top: 610px;
+    padding-left: 53.5%;
+}
+
+.view_icon {
+    font-size: 3vw;
+    background-color: rgb(226, 121, 121);
+    padding: 12px;
+    padding-left: 16px;
+    width: 27%;
+    text-shadow: 1px;
+    color: whitesmoke;
+    position: absolute;
+    margin-top: 685px;
+    left: 33%;
+}
+
+.about_img {
+    width: 100%;
+    position: absolute;
+    margin-top: 740px;
+}
+
+.about_topic {
+    color: white;
+    margin-top: 772px;
+    position: absolute;
+    padding-left: 8%;
+    font-size: 5vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 0.42px 0.42px whitesmoke;
+}
+
+.mail {
+    color: white;
+    margin-top: 872px;
+    position: absolute;
+    padding-left: 34%;
+    font-size: 3vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 0.5px 0.5px whitesmoke;
+}
+
+.address {
+    color: white;
+    margin-top: 870px;
+    position: absolute;
+    padding-left: 4%;
+}
+
+.e-mail {
+    color: white;
+    margin-top: 890px;
+    position: absolute;
+    padding-left: 34%;
+    font-size: 2.7vw;
+}
+
+a.e-mail:link {
+    color: white;
+}
+
+a.e-mail:visited {
+    color: green;
+}
+
+a.e-mail:hover {
+    color: tomato;
+}
+
+a.e-mail:active {
+    color: blue;
+}
+
+.mobile_no {
+    color: white;
+    margin-top: 872px;
+    position: absolute;
+    padding-left: 75%;
+    font-size: 3vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 0.5px 0.5px whitesmoke;
+}
+
+.no {
+    color: white;
+    margin-top: 890px;
+    position: absolute;
+    padding-left: 75%;
+    font-size: 2.7vw;
+}
+
+a.no:link {
+    color: white;
+}
+
+a.no:visited {
+    color: green;
+}
+
+a.no:hover {
+    color: tomato;
+}
+
+a.no:active {
+    color: blue;
+}
